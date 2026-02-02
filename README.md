@@ -54,7 +54,7 @@ scikit‑learn
 # How to Run
 
 Clone the repository:
-Shellgit clone https://github.com/asadbajwa123/Berkeley_Module11.git
+(https://github.com/asadbajwa123/Berkeley_Module11/blob/main/car_price_analysis_r2.ipynb)
 Install required libraries:
 Open the Jupyter Notebook:
 Run all cells to reproduce the analysis.
@@ -63,7 +63,7 @@ Run all cells to reproduce the analysis.
 # Results
 Model performance summaries and visualizations are included directly in the notebook.
 These results can inform price predictions and provide insights into used‑car market dynamics.
-# Full analysis and visualizations: https://github.com/asadbajwa123/Berkeley_Module11.git
+## Full analysis and visualizations: (https://github.com/asadbajwa123/Berkeley_Module11/blob/main/car_price_analysis_r2.ipynb)
 
 # Contributions
 Feel free to submit issues or pull requests for improvements, additional models, or new dataset integration.
